@@ -12,4 +12,3 @@ openpyxl>=3.0
 python-dateutil
 tqdm
 requests
-openpyxl
